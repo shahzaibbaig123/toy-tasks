@@ -1,0 +1,10 @@
+Program: ./sumthread 40000000 1	Total time: 0:00.11	User Mode (s) 0.11	Kernel Mpde (s) 0.00	CPU: 98%
+Program: ./sumthread 40000000 2	Total time: 0:00.06	User Mode (s) 0.12	Kernel Mpde (s) 0.00	CPU: 189%
+Program: ./sumthread 40000000 3	Total time: 0:00.04	User Mode (s) 0.11	Kernel Mpde (s) 0.00	CPU: 273%
+Program: ./sumthread 40000000 4	Total time: 0:00.04	User Mode (s) 0.10	Kernel Mpde (s) 0.00	CPU: 232%
+Program: ./sumthread 40000000 5	Total time: 0:00.04	User Mode (s) 0.10	Kernel Mpde (s) 0.00	CPU: 251%
+Program: ./sumthread 40000000 6	Total time: 0:00.03	User Mode (s) 0.10	Kernel Mpde (s) 0.00	CPU: 282%
+Program: ./sumthread 40000000 7	Total time: 0:00.03	User Mode (s) 0.11	Kernel Mpde (s) 0.00	CPU: 300%
+Program: ./sumthread 40000000 8	Total time: 0:00.03	User Mode (s) 0.11	Kernel Mpde (s) 0.00	CPU: 316%
+Program: ./sumthread 40000000 9	Total time: 0:00.03	User Mode (s) 0.12	Kernel Mpde (s) 0.00	CPU: 363%
+Program: ./sumthread 40000000 10	Total time: 0:00.03	User Mode (s) 0.11	Kernel Mpde (s) 0.00	CPU: 316%
