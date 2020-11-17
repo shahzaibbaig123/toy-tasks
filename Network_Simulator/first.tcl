@@ -1,5 +1,8 @@
 #Create a simulator object
 set ns [new Simulator]
+set nf [open out.tr w]
+
+$ns trace-all $nf
 #Define different colors for data flows (for NAM)
 $ns color 1 Blue
 $ns color 2 Red
